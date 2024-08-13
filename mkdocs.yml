@@ -1,0 +1,7 @@
+site_name: Shivansh Subramanian
+theme: readthedocs
+
+nav:
+  - About: 
+    - Home: index.md
+    - Why a Blog?: why.md
